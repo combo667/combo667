@@ -7,18 +7,20 @@
   - 🚀 **Drone Signal Classification**: Classified signals using deep learning and signal processing techniques.
   - 📚 **SkimLit**: Automated research paper summarization with NLP.
   - 💬 **Sentiment Analysis**: Developed models to analyze text sentiment for real-world applications.
+  - 🖥 **eBPF and Memory Checkpointing**: Worked at the kernel level on memory checkpointing using **eBPF** for systems-level programming and optimizations.
 
 💡 **What I'm Learning:**
 - 🔍 Deepening my understanding of **AI**, **Data Science**, and advanced machine learning techniques.
-- 🛠 Exploring cutting-edge technologies in **signal processing** and **additive manufacturing with drones**.
+- 🛠 Exploring cutting-edge technologies in **signal processing**, **kernel-level programming**, and **additive manufacturing with drones**.
 
 🤝 **Looking to Collaborate On:**
 - AI/ML projects that involve real-world problem-solving.
+- **Systems-level programming**, particularly kernel-level work with **eBPF** and memory management.
 - **Open-source** initiatives related to **computer vision**, **natural language processing**, and **IoT**.
 
 📫 **Reach Me:**
-- 💼 [LinkedIn](www.linkedin.com/in/jubesh-joseph-964705273)
-- 📧 Email: [jubeshjoseph@iisc.ac.in](mailto:jubeshjoseph@iisc.ac.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jubesh-joseph-964705273/)
+- 📧 Email: [jubesh@example.com](mailto:jubesh@example.com)
 
 ---
 
