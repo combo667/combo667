@@ -20,7 +20,7 @@
 
 📫 **Reach Me:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/jubesh-joseph-964705273/)
-- 📧 Email: [jubesh@example.com](mailto:jubesh@example.com)
+- 📧 Email: [jubesh0@gmail.com](mailto:jubesh@example.com)
 
 ---
 
